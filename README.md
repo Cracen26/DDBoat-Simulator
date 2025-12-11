@@ -1,4 +1,4 @@
-# Simulation with autonomous boats
+# Simulation Boat
 
 sim1 :  open loop constant control command
 sim2 :  basic controllers
@@ -9,3 +9,4 @@ sim5 :  deteriorated formation control
 boat.py :  boat class and display class
 controller.py :  controller functions
 saturation.py :  illustrate the saturation of the boat speed
+
